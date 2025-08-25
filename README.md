@@ -30,12 +30,7 @@ A real-time client-server messaging application built with Java that enables eff
 ```
 src/
 ├── ClientApp.java          # Main client application
-├── ClientFrame.java        # Client GUI implementation
 ├── ServerApp.java          # Main server application
-├── ServerFrame.java        # Server GUI implementation
-├── ClientHandler.java      # Handles individual client connections
-├── AlertItem.java          # Alert data model
-└── AlertCellRenderer.java  # Custom alert list rendering
 ```
 
 ## 🎯 How to Run
